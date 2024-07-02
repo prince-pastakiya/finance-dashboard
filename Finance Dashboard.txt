@@ -1,0 +1,7 @@
+Frontend: Material UI components, TypeScript, Vite, Recharts, Redux, Redux Toolkit Query, heroicons, React Router
+
+Backend: Node.js, Express js, mongoose
+
+Machine Learning function: regression-js
+
+Components: recharts,  
